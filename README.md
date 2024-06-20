@@ -6,3 +6,5 @@ In this report, I focus on the index analysis of one retailer, Diageo America, f
 Data cleaning: https://by.tn/kbPY
 
 Classify and calculate the number of customers: https://by.tn/yxv9
+
+Data visualization: 
