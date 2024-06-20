@@ -1,2 +1,5 @@
-# Liquor-Retail-Sales
-This dataset contains every wholesale purchase of liquor in the State of Iowa by retailers for sale to individuals since January 1, 2012. The State of Iowa controls the wholesale distribution of liquor intended for retail sale (off-premises consumption), which means this dataset offers a complete view of retail liquor consumption in the entire state. The dataset contains every wholesale order of liquor by all grocery stores, liquor stores, convenience stores, etc., with details about the store and location, the exact liquor brand and size, and the number of bottles ordered.
+# Diageo America Sales
+This data set includes all wholesale purchases of alcohol in the State of Iowa by retailers for sale to individuals since January 1, 2012. The data set contains all wholesale alcohol orders from all grocery stores, liquor stores, convenience stores, etc., along with store and location details, exact wine brand and size, and number of bottles ordered.
+In this report, I focus on the index analysis of one retailer, Diageo America, for the period from 2021 to 2022.
+Data cleaning: https://by.tn/kbPY
+Classify and calculate the number of customers: https://by.tn/yxv9
