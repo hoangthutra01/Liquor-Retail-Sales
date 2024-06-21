@@ -58,7 +58,7 @@ from store_by_month_densed
     when count_lines_L4M=0 and count_lines_L3M<>0 then 'Returning'
 	--A store is in Returning state when it was in Lost state in the previous month, but has orders this month.
  	--count_lines_L4M=0 is equivalent to being in "Lost" status in the previous month, count_lines_L3M<>0 is equivalent to having orders in this month when count_lines_L4M=0 and count_lines_L3M=0 then 'Inactive'
-	--A store is in Inactive status when last month was in Lost status and there are no orders this month.    when count_lines_L3M>0 then 'Existing'
+	--A store is in Inactive status when last month was in Lost status and there are no orders this month.
     when count_lines_L3M=0 then 'Lost'
     else 'Undefined'
   end as customer_status
